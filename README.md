@@ -4,7 +4,7 @@ FPGA Image Processor: Decode information from mic15 file.
 ## Features
 
 - Read file information in .mic15 format from SRAM module and doing **Lossless Decoding**, **Inverse Discrete Cosine Transform**, and **Upsamling and Colourspave Conversion**.
-- For more information, please refer the project specification at [Experiment 1](doc/3dq5-2021-project-description.pdf)
+- For more information, please refer to the [project specification](doc/3dq5-2021-project-description.pdf)
 
 ## Credit
 
